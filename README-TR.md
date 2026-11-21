@@ -114,6 +114,11 @@ Klasör aç → `.spk.txt` seç → saate tıkla dinle → metni düzelt → `Ct
 
 İpuçları: 1. turda durun (bizde 2. tur ezberledi), doğrulama WER'i artarsa eğitimi kesin, E2 gibi yeni alanlar için 1-2 epoch yeter.
 
+## Ekran Görüntüleri
+
+![Düzeltme arayüzü](docs/editor.png)
+*Dinle - düzelt - kaydet döngüsü: zaman damgasına tıkla, metni düzenle, `Ctrl+S`.*
+
 ## Proje Yapısı
 
 ```

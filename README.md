@@ -114,6 +114,11 @@ Open a folder → pick a `.spk.txt` → click timestamps to listen → edit → 
 
 Tips: stop after round 1 if val WER degrades (we observed overfitting from round 2 on); 1–2 epochs are enough for new domains; keep a held-out val set that mirrors deployment audio.
 
+## Screenshots
+
+![Correction GUI](docs/editor.png)
+*Listen - correct - save loop: click a timestamp, edit the text, `Ctrl+S`.*
+
 ## Project Layout
 
 ```
