@@ -1,0 +1,25 @@
+# Modeller ve agirliklar (buyuk dosyalar, ayri indirilir)
+models/
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ciktilar
+out/
+deneme*/
+ab-test/
+*.bak
+*.bak-*
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini

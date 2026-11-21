@@ -1,0 +1,27 @@
+# Core
+faster-whisper>=1.0.0
+torch
+torchaudio
+silero-vad>=6.0.0
+librosa>=1.0.0
+soundfile>=0.12.0
+noisereduce>=3.0.0
+scipy
+numpy<3.0.0
+huggingface_hub>=0.28.0
+tqdm
+tabulate
+av==14.2.0
+torchcodec>=0.16.0
+
+# Diarization
+pyannote.audio>=4.0.0
+
+# GUI
+customtkinter>=6.0.0
+
+# Training & eval
+transformers>=4.44.0
+accelerate>=1.0.0
+jiwer
+peft>=0.12.0
